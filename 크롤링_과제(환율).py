@@ -27,10 +27,12 @@ trs=tbody.find_all("tr")
 header=["통화명","매매기준율","사실때","파실때","보내실때","받으실때","미화환산율"]
 print(header)
 result=[]
+country=[]
 for tr in trs:
     tds=tr.find_all("td")
     data=[]
     for td in tds:
         data.append(td.get_text().strip())
     result.append(data)
+    country.append(data[0])
     print(data)
