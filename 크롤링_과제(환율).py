@@ -34,6 +34,3 @@ for tr in trs:
         data.append(td.get_text().strip())
     result.append(data)
     print(data)
-
-df = pd.DataFrame(result)
-df.to_excel ('exchange.xlsx', index = False, header=header)
