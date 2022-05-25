@@ -77,3 +77,7 @@ else:
   soup = bs(html,"html.parser")
   img = soup.select_one(graph)['src']
   print(f'링크를 누르시면 그래프가 나옵니다>> {img}')
+
+$ git fetch
+$ git reset -- hard origin/master
+$ git pull origin master
