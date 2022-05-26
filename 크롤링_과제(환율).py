@@ -7,8 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/16yxiWlwNLX_EQrRDp3NxaeCZcwGkCUyA
 """
 #구민주 학생 
-!pip install beautifulsoup4
-!pip install requests
 from bs4 import BeautifulSoup as bs
 from urllib.request import urlopen
 import pandas as pd
