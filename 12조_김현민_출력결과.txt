@@ -1,5 +1,0 @@
-미국 입력시 : 링크를 누르시면 그래프가 나옵니다>> https://ssl.pstatic.net/imgfinance/chart/marketindex/area/month3/FX_USDKRW.png
-유럽연합 입력시 : 링크를 누르시면 그래프가 나옵니다>> https://ssl.pstatic.net/imgfinance/chart/marketindex/area/month3/FX_EURKRW.png
-일본 입력시 : 링크를 누르시면 그래프가 나옵니다>> https://ssl.pstatic.net/imgfinance/chart/marketindex/area/month3/FX_JPYKRW.png
-홍콩 입력시 : 링크를 누르시면 그래프가 나옵니다>> https://ssl.pstatic.net/imgfinance/chart/marketindex/area/month3/FX_HKDKRW.png
-중국 입력시 : 링크를 누르시면 그래프가 나옵니다>> https://ssl.pstatic.net/imgfinance/chart/marketindex/area/month3/FX_CNYKRW.png
